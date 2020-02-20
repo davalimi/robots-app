@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 //On a vue props, state mais aussi on peut utiliser Children, CardList est le children de Scroll
 //Chaque props a un Children
 // on peut return props.childre => il ne se passe rien
